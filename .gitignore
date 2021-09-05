@@ -1,0 +1,10 @@
+wordpress/wp-admin
+wordpress/wp-includes
+wordpress/wp-content/languages
+wordpress/wp-content/plugins/
+wordpress/wp-content/themes/twentynineteen
+wordpress/wp-content/upgrade
+wordpress/*.php
+wordpress/*.html
+wordpress/*.txt
+mysql/
